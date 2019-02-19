@@ -1,0 +1,41 @@
+
+.modal-login-close {
+    margin: 0;
+    color:white;
+    opacity:0.7;
+    font-size: 30px;
+}
+
+.modal-login-close:hover {
+    color:white;
+    opacity: 1;
+}
+
+.modal-sub-link {
+    font-size: 12px;
+    color: #ff7b5c;
+    cursor: pointer;
+}
+.modal-sub-link-light {
+    font-size: 13px;
+    color: #fff;
+    cursor: pointer;
+}
+.modal-sub-link-light:hover {
+  color: #fff;
+  text-decoration: none;
+}
+.modal-sub-link:hover {
+    color: #ff5d5c;
+    text-decoration: none;
+}
+
+.modal-link {
+    font-size: 12px;
+    color: #10b8de;
+    cursor: pointer;
+}
+.modal-link:hover {
+    color: #00aebc;
+    text-decoration: none;
+}

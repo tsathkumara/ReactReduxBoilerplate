@@ -1,0 +1,45 @@
+.navbar-custom {
+	  background-color:#00aebc;
+    color:#ffffff;
+  	border: 0;
+    border-radius: 0;
+}
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    padding: 0px;
+    color: #fff;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus {
+    color: #fff;
+}
+.dropdown-menu>li>a {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+    font-family:HelveticaNeue !important;
+}
+
+.nav_label {
+  color: #949494;
+  display: block;
+  padding: 3px 20px;
+  clear: both;
+  font-weight: 400;
+  line-height: 1.42857143;
+  white-space: nowrap;
+  font-family:HelveticaNeue !important;
+}
+
+.navbar-logo {
+    width: 64px;
+    height: 48px;
+    padding: 8px 16px 8px 16px;
+}
